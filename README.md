@@ -1,11 +1,13 @@
 # spring-boot-course
 Controle de estacionamento de condomínio, onde as vagas são destinadas a moradores. 
 
+
 Regras: 
 
--Cada novo morador tem que registrar o seu veículo. 
+- Cada novo morador tem que registrar o seu veículo. 
 
--Cada apartamento tem direito a uma vaga. 
+- Cada apartamento tem direito a uma vaga. 
+
 
 Métodos implementados
 
