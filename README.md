@@ -7,4 +7,12 @@ Regras:
 
 -Cada apartamento tem direito a uma vaga. 
 
-Baseado no curso "Spring Boot | Curso Completo 2022" por Michelli Brito. Link: https://youtu.be/LXRU-Z36GEU
+Métodos implementados
+
+- PUSH (Cadastrar novo veículo)
+
+- GET (Listar todas as vagas do estacionameto e buscar uma vaga específica a partir do id)
+
+- DELETE (Deletar registro de veículo a partir do id da vaga)
+
+- PUT (Atualizar informações a partir do id da vaga)
